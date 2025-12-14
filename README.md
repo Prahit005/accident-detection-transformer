@@ -45,6 +45,18 @@ Install dependencies:
 
     pip install tensorflow keras opencv-python numpy
 
+## 📦 Dataset & Model Files
+
+Due to GitHub file size limits, full-resolution videos and trained model
+weights are hosted on Google Drive.
+
+🔗 **Google Drive Folder:**
+https://drive.google.com/drive/folders/1pHDF4U-Nm0WZssbd0AEjlN7bQxdkAjZH?usp=drive_link
+
+### Folder Structure
+- `models/` → transformer_temporal_head.keras  
+- `videos/` → accident video clips
+
 ## ▶️ How to Run
 
 1. Place your video inside data/raw/.
@@ -58,7 +70,7 @@ Install dependencies:
 
 3. Run:
 
-        python test1.py
+        python inference.py
 
 The script will:
 
