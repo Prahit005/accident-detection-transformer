@@ -1,5 +1,9 @@
 # Accident Detection Using EfficientNetB1 + Transformer
 
+![License](https://img.shields.io/github/license/Prahit005/accident-detection-transformer)
+![Issues](https://img.shields.io/github/issues/Prahit005/accident-detection-transformer)
+![Stars](https://img.shields.io/github/stars/Prahit005/accident-detection-transformer)
+
 This project implements an Accident Detection System using a hybrid architecture:
 
 - EfficientNetB1 as a frame-level feature extractor
