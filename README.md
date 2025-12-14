@@ -43,7 +43,7 @@ The system reads a video, extracts features from sampled frames, feeds a tempora
 
 Install dependencies:
 
-    pip install tensorflow keras opencv-python numpy
+    pip install -r requirements.txt
 
 ## 📦 Dataset & Model Files
 
