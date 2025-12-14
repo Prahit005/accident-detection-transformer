@@ -231,3 +231,8 @@ data/videos/*
 !data/raw/.keep
 !data/processed/.keep
 !data/videos/.keep
+
+# Large assets stored on Google Drive
+data/raw/
+data/raw2/
+*.keras
